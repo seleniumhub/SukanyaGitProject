@@ -2,7 +2,7 @@
 public class ClassA {
 
 	public static void main(String[] args) {
-		System.out.println(" this is my git hib Project");
+		System.out.println(" this is my git hib second Project");
 	}
 
 }
